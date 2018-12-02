@@ -1,2 +1,2 @@
 
- public tring a[])
+ public string a[])
