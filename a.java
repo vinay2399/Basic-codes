@@ -1,2 +1,2 @@
 
- public static void main(string a[])
+ public tring a[])
